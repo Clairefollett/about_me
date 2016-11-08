@@ -1,0 +1,19 @@
+.head {
+  font-size: 34px;
+  font-family: Lucida;
+  color: #009900;
+  text-align: center;
+  list-style: none;
+}
+
+.first {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #0000ff;
+  text-align: center;
+  list-style: none;
+}
+main {
+  background-color:#99ffcc;
+  margin: 0 auto;
+}

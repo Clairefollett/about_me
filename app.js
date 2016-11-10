@@ -137,17 +137,3 @@ function seventhQuestion() {
     }
   } // end question seven
 }
-
-console.log('Hello World');
-var nameQuestionAnswer = prompt('What is your name?');
-console.log('First question answered with: ' + nameQuestionAnswer);
-alert('Hey ' + nameQuestionAnswer + '! That is a pretty cool name... I guess.');
-var locationQuestionAnswer = prompt('Where are you from?');
-console.log('Second question answered with: ' + locationQuestionAnswer);
-alert('It is always rainy in ' + locationQuestionAnswer + '!');
-var numAge = prompt('How old are you?');
-console.log('Third question answered with: ' + numAge);
-alert('Wow! You are ancient!');
-var hobbiesAnswer = prompt('What do you like to do with your free time?');
-console.log('Fourth question answered with: ' + hobbiesAnswer);
-alert('Very interesting!');
